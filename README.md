@@ -8,7 +8,7 @@ This lab demonstrates the process of configuring osTicket .<br />
 
 <p>
 To get started with configuring osTicket for use, we will log in using our admin account at http://localhost/osTicket/scp/login.php
-To simulate end users submitting tickets, the end user URL is http://localhost/osTicket/
+To simulate end users submitting tickets, the end user URL is http://localhost/osTicket/.
 </p>
 <p>
 </p>
