@@ -63,7 +63,7 @@ space reserved for text
 <br />
 
 <p>
-The installation of osTicket is now complete. The next part of the lab will be located <a href="https://github.com/yearninlearnin/ticket-lifecycle">here!</a><br /> 
+The configuration of our admin and permission role settings for our ticketing system is now complete. The next part of the lab will be located <a href="https://github.com/yearninlearnin/ticket-lifecycle">here!</a><br /> 
 </p>
 <p>
 </p>
