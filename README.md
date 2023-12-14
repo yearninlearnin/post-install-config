@@ -26,7 +26,7 @@ space reserved for text
 space reserved for text
 </p>
 <p>
-<img src="https://i.imgur.com/sg7juHb.jpg" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/po0l5MV.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 
@@ -34,7 +34,7 @@ space reserved for text
 space reserved for text
 </p>
 <p>
-<img src="https://i.imgur.com/sg7juHb.jpg" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/Sa6P8rV.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 
@@ -42,7 +42,7 @@ space reserved for text
 space reserved for text
 </p>
 <p>
-<img src="https://i.imgur.com/sg7juHb.jpg" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/bXW80ty.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 
@@ -50,7 +50,7 @@ space reserved for text
 space reserved for text
 </p>
 <p>
-<img src="https://i.imgur.com/sg7juHb.jpg" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/DLKBfcf.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 
@@ -58,14 +58,7 @@ space reserved for text
 space reserved for text
 </p>
 <p>
-<img src="https://i.imgur.com/sg7juHb.jpg" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/ShSBCG6.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 
-<p>
-space reserved for text
-</p>
-<p>
-<img src="https://i.imgur.com/sg7juHb.jpg" height="80%" width="80%" alt="Installation Steps"/>
-</p>
-<br />
