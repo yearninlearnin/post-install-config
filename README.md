@@ -18,7 +18,7 @@ To simulate end users submitting tickets, the end user URL is http://localhost/o
 space reserved for text
 </p>
 <p>
-<img src="https://i.postimg.cc/7PQjs3Wq/8-osticket-login-screen.png" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/6TxfNCr.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 
