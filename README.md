@@ -13,3 +13,59 @@ To simulate end users submitting tickets, the end user URL is http://localhost/o
 <p>
 </p>
 <br />
+
+<p>
+space reserved for text
+</p>
+<p>
+<img src="https://i.imgur.com/sg7juHb.jpg" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
+
+<p>
+space reserved for text
+</p>
+<p>
+<img src="https://i.imgur.com/sg7juHb.jpg" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
+
+<p>
+space reserved for text
+</p>
+<p>
+<img src="https://i.imgur.com/sg7juHb.jpg" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
+
+<p>
+space reserved for text
+</p>
+<p>
+<img src="https://i.imgur.com/sg7juHb.jpg" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
+
+<p>
+space reserved for text
+</p>
+<p>
+<img src="https://i.imgur.com/sg7juHb.jpg" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
+
+<p>
+space reserved for text
+</p>
+<p>
+<img src="https://i.imgur.com/sg7juHb.jpg" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
+
+<p>
+space reserved for text
+</p>
+<p>
+<img src="https://i.imgur.com/sg7juHb.jpg" height="80%" width="80%" alt="Installation Steps"/>
+</p>
+<br />
