@@ -62,3 +62,9 @@ space reserved for text
 </p>
 <br />
 
+<p>
+The installation of osTicket is now complete. The next part of the lab will be located <a href="https://github.com/yearninlearnin/ticket-lifecycle">here!</a><br /> 
+</p>
+<p>
+</p>
+<br />
