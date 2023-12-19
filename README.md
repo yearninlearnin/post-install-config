@@ -15,7 +15,7 @@ To simulate end users submitting tickets, the end user URL is http://localhost/o
 <br />
 
 <p>
-space reserved for text
+This is the initial splash page for osTicket. This will be the main portal where admins and users with elevated privaledges will be able to sign in to manage tickets.
 </p>
 <p>
 <img src="https://i.imgur.com/6TxfNCr.png" height="80%" width="80%" alt="Installation Steps"/>
