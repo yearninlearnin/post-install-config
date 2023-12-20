@@ -23,7 +23,7 @@ This is the initial splash page for osTicket. This will be the main portal where
 <br />
 
 <p>
-space reserved for text
+Here is the homepage of the ticketing software. This is our main portal where we can view open and closed tickets. From here I will begin adding some team members with elevated privilages to act as support engineers as well as adding a couple of end users to who will simulate on primise support requests.
 </p>
 <p>
 <img src="https://i.imgur.com/po0l5MV.png" height="80%" width="80%" alt="Installation Steps"/>
