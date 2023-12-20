@@ -31,7 +31,7 @@ Here is the homepage of the ticketing software. This is our main portal where we
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/Sa6P8rV.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -39,7 +39,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/bXW80ty.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -47,7 +47,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/DLKBfcf.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -55,7 +55,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+I now have the support team assembled and have set up our current SLA (Service-Level Agreements)
 </p>
 <p>
 <img src="https://i.imgur.com/ShSBCG6.png" height="80%" width="80%" alt="Installation Steps"/>
